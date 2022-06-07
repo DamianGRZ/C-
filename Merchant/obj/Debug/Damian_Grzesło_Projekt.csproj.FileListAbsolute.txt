@@ -1,0 +1,8 @@
+C:\Users\Damian Grzesło\source\repos\CS\Damian_Grzesło_Projekt\bin\Debug\Damian_Grzesło_Projekt.exe.config
+C:\Users\Damian Grzesło\source\repos\CS\Damian_Grzesło_Projekt\bin\Debug\Damian_Grzesło_Projekt.exe
+C:\Users\Damian Grzesło\source\repos\CS\Damian_Grzesło_Projekt\bin\Debug\Damian_Grzesło_Projekt.pdb
+C:\Users\Damian Grzesło\source\repos\CS\Damian_Grzesło_Projekt\obj\Debug\Damian_Grzesło_Projekt.csproj.AssemblyReference.cache
+C:\Users\Damian Grzesło\source\repos\CS\Damian_Grzesło_Projekt\obj\Debug\Damian_Grzesło_Projekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damian Grzesło\source\repos\CS\Damian_Grzesło_Projekt\obj\Debug\Damian_Grzesło_Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Damian Grzesło\source\repos\CS\Damian_Grzesło_Projekt\obj\Debug\Damian_Grzesło_Projekt.exe
+C:\Users\Damian Grzesło\source\repos\CS\Damian_Grzesło_Projekt\obj\Debug\Damian_Grzesło_Projekt.pdb
